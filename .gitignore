@@ -1,0 +1,17 @@
+# Created by http://www.gitignore.io
+
+### Haskell ###
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virtualenv
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.config
+
+
+#!! ERROR: cabal is undefined. Use list command to see defined gitignore types !!#
